@@ -1,0 +1,8 @@
+{
+  "name": "World Of AI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ece2c2d4"
+}
